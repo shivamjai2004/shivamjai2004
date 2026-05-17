@@ -9,7 +9,7 @@
   <a href="mailto:shivam.codeforfuture@gmail.com">📧 Email</a> ·
   <a href="https://github.com/shivamjai2004">💻 GitHub</a> ·
   <a href="https://leetcode.com/">🧠 LeetCode</a> ·
-  <a href="https://codolio.com/">📊 Codolio</a> ·
+  <a href="https://codolio.com/profile/Shivam_Jaiswal">📊 Codolio</a> ·
   <a href="https://twitter.com/">🐦 Twitter / X</a>
 </p>
 
